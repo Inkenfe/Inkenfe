@@ -1,6 +1,7 @@
 ## Hey there 👋
 I am Inken Fender, a recent PhD graduate in Computational Biology from University of Bern, working in the group of Prof. Dr. Thomas Lemmin.
 My research focuses on **deep learning for protein-ligand interaction prediction**, **chemical language models**, and **molecular dynamics simulations**.
+
 I am passionate about using computation to predict biological outcomes furthering our understanding of biology, and exploring the limits of computational models.
 
 Check out my personal website [inkenfender.com](http://inkenfender.com) for more info, or reach me on [LinkedIn](your-linkedin-url) if you have questions!
